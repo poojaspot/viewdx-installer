@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-TOKEN="github_pat_11A4XY7XA0iEfK567nSPM4_pgl549mBFYyUPkcoVNzT8m3OLolgRYlmPB4NKE54dN7Y22YFNZYm88gV"
+TOKEN="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"
 
 RUNTIME_DIR="/home/pi/viewdx"
 TMP_DIR="/tmp/viewdx_update"
