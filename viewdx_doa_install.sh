@@ -20,6 +20,7 @@ rsync -av --update \
   --exclude 'Certificate_of_warranty.pdf' \
   --exclude 'Installation_report.pdf' \
   --exclude 'config.json' \
+  --exclude 'panel_tests.json'\
   --exclude 'results/' \
   --exclude 'captured/' \
   --exclude 'qr/' \
